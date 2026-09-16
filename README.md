@@ -1,3 +1,4 @@
 # foodCase
-demo at: http://huahua.io.vn/
-If you always don't know what food eat today, let create a foodCase to sovle it!! ^^
+demo at: http://huahua.io.vn /n
+
+If you never know what to eat today, let's create a foodCase to solve it. ^^
